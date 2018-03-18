@@ -1,0 +1,11 @@
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\modelo\Pessoa.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\servico\exception\UnicidadeTelefoneException.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\repository\IPessoaRepository.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\servico\impl\PessoaServicoImpl.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\modelo\Endereco.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\servico\exception\UnicidadeCpfException.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\controller\HomeController.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\servico\exception\TelefoneNaoEncontradoException.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\App.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\modelo\Telefone.java
+D:\workspace-spring\cursotdd\src\main\java\com\boot\cursotdd\servico\IPessoaServico.java

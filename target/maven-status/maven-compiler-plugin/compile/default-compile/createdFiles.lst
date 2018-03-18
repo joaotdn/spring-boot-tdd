@@ -1,0 +1,11 @@
+com\boot\cursotdd\modelo\Pessoa.class
+com\boot\cursotdd\servico\exception\TelefoneNaoEncontradoException.class
+com\boot\cursotdd\servico\exception\UnicidadeCpfException.class
+com\boot\cursotdd\repository\IPessoaRepository.class
+com\boot\cursotdd\modelo\Endereco.class
+com\boot\cursotdd\servico\IPessoaServico.class
+com\boot\cursotdd\modelo\Telefone.class
+com\boot\cursotdd\controller\HomeController.class
+com\boot\cursotdd\servico\exception\UnicidadeTelefoneException.class
+com\boot\cursotdd\App.class
+com\boot\cursotdd\servico\impl\PessoaServicoImpl.class
